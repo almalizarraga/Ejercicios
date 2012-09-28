@@ -6,7 +6,7 @@ package practicas;
 
 /**
  *
- * @author alma
+ * @author alma Lizarraga Navia
  */
 public class Fruit {
     public static void main (String [] args){
