@@ -1,2 +1,0 @@
-practicas.Miembros
-practicas.IniciaVariables
